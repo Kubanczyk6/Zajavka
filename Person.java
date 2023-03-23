@@ -7,7 +7,13 @@ String ab="abc";
 
 int age = 20;
 
+
 String surname = "kowalski";
+
+String name = "Kuba";
+String ar = " awa";
+String aw="aw";
+
 
 }
 
