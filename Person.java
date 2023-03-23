@@ -7,8 +7,7 @@ String ab="abc";
 
 int age = 20;
 
-String name = "Kuba";
-String ar = " awa";
+String surname = "kowalski";
 
 }
 
