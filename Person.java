@@ -13,7 +13,6 @@ String qwert = "qwerty";
 
 
 
-String address = "Local 1";
 
 }
 
