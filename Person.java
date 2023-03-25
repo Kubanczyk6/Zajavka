@@ -8,7 +8,7 @@ String surname = "kowalski";
 
 String name = "Kuba";
 
-
+int abc=1;
 
 String qwert = "qwerty";
 
